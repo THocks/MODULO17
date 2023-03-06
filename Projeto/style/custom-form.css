@@ -1,0 +1,31 @@
+textarea.form-control{
+    width: 100% !important;
+    
+}
+
+@media (max-width:325px) {
+
+    .form-check
+   
+    {
+
+       display: inline-flex;
+    }
+
+    
+
+    
+  
+    
+}
+@media (max-width:50px) {
+
+    .form-check
+   
+    {
+
+       display: inline-flex;
+    }
+ 
+    
+}
